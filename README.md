@@ -5,6 +5,8 @@ If someone tells you that your job as a programmer or Android Dev will be replac
 ## What you have to do
 Complete the Android UI Test provided in the `MainActivityTest.kt` file to ensure it functions correctly on both the latest Android version and the older version with the legacy Image Picker.
 
+![Expect UI test](./public/sample.gif)
+
 Feel free to use any Generative AI tool to assist in this task, as that is the primary objective of this test.
 
 > Image file is requires for Android Emulator
