@@ -18,5 +18,11 @@ Feel free to use any Generative AI tool to assist in this challenge, as that is 
 * **If you can code a bit but don't work in this field**: My career is starting to shake due to the AI era.
 * **If you've never coded before, just Generative AI user**: Goodbye to my career.
 
+## Why am I so confident?
+
+Because writing UI tests on Android is one of the topics with very little information available on the internet. Although there are good libraries like Kakao or Kaspresso that are commonly used, they further reduce the amount of information available on the internet.
+
+This lack of information makes it difficult for Generative AI, which learns from internet data, to provide advice on issues that arise from writing UI tests on Android.
+
 ## License
 See [Apache License 2.0](./LICENSE)
