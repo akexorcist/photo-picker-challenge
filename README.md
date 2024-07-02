@@ -3,7 +3,7 @@
 If someone tells you that your job as a programmer or Android dev will be replaced by Generative AI in the future, give them this challenge to do. This will make your job safe.
 
 ## What you have to do
-Complete the Android UI Test provided in the `MainActivityTest.kt` file to ensure it functions correctly on both the latest Android version and the older version with the legacy image picker.
+Complete the Android UI Test provided in the `MainActivityTest.kt` file to ensure it functions correctly on both the latest Android version with the photo picker and the older version with the legacy image picker.
 
 ![Expect UI test](./public/sample.gif)
 
