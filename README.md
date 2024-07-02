@@ -14,7 +14,7 @@ Feel free to use any Generative AI tool to assist in this task, as that is the p
 ## What if I can complete this challenge
 
 * **If you are an Android Developer**: Exactly, that's why Android Developers are still needed.
-* **If you are a Software Engineer but not an Android Developer**: This is the advantage of Generative AI, which allows you to understand and work on platforms you've never worked on before.
+* **If you are a Software Engineer but not an Android Developer**: This is the advantage of Generative AI, which allows you to learn and work on platforms you've never worked on before.
 * **If you can code a bit but don't work in this field**: My career is starting to shake due to the AI era.
 * **If you've never coded before, just Generative AI user**: Goodbye to my career.
 
